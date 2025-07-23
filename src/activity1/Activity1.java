@@ -41,13 +41,13 @@ public class Activity1 {
           
         if (totalpercentage >= 91 && totalpercentage <= 100) {
             System.out.println("Remarks: Excellent");
-        } else if (totalpercentage >= 86 && totalpercentage <= 90) {
+        } else if (totalpercentage >= 86 && totalpercentage <= 90.9) {
               System.out.println("Remarks: Very Good");
-        } else if (totalpercentage >= 81 && totalpercentage <= 85) {
+        } else if (totalpercentage >= 81 && totalpercentage <= 85.9) {
                System.out.println("Remarks: Good");
-        } else if (totalpercentage >= 76 && totalpercentage <= 80) {
+        } else if (totalpercentage >= 76 && totalpercentage <= 80.9) {
                 System.out.println("Remarks: Fair");
-        } else if (totalpercentage >= 71 && totalpercentage <= 75) {
+        } else if (totalpercentage >= 71 && totalpercentage <= 75.9) {
                System.out.println("Remarks: Poor");
         } 
        
